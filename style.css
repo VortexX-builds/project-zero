@@ -1,0 +1,37 @@
+h1 {
+    border: 3px solid red;
+    border-radius: 17px;
+    background-color: cyan;
+    padding: 30px;
+}
+
+p {
+    border-bottom: 3px solid orange;
+    border-top: 3px solid green;
+    border-left: 3px dotted blue;
+    border-right: 3px dashed cyan;
+    border-radius: 17px;
+    background-color: cyan;
+    padding: 30px;
+}
+
+body {
+    margin: 10px;
+    background-image: url("imgs/bg.png");
+}
+
+.illus {
+    float: left;
+}
+
+header {
+    background-color: cyan;
+    margin: 20px;
+    padding: 30px;
+}
+
+main {
+    background-color: cyan;
+    margin: 20px;
+    padding: 30px;
+}
